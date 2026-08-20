@@ -48,8 +48,8 @@ const seedDataDirect = async () => {
 
     // 1. Create Users
     const admin = await User.create({
-      name: 'Dr. Sarah Jenkins',
-      email: 'admin@campus.edu',
+      name: 'NishadDipto',
+      email: 'nishad@gmail.com',
       password: 'Admin@123',
       role: 'ADMIN',
       studentId: 'FAC-ADMIN-01',
